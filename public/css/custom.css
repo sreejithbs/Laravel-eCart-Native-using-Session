@@ -1,0 +1,33 @@
+.thumbnail {
+    padding:20px;
+}
+
+.thumbnail img {
+    max-height: 150px;
+}
+
+.thumbnail .description {
+    color: #7f7f7f;
+}
+
+.price {
+    font-weight:bold;
+    font-size: 16px;
+}
+
+#cart form {
+    display: inline;
+}
+
+#cart form input[type="text"] {
+    width:40px;
+}
+
+.custPanel {
+	border-color: #438c0d !important;
+	background-color: #abcac5;
+}
+
+.custFooter {
+	background-color: #89ca21 !important;
+}
